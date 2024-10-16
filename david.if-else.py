@@ -4,7 +4,7 @@ def sum(a, b):
 a = int(input('cual es el primer numero: '))
 b = int(input('añade otro numerin: '))
 
-if (a == 7) and (b == 770):
+if ((a + b)== 777):
     print('eyyy muy buenas a todos guapisimos')
 
 else:
