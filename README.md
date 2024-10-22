@@ -1,1 +1,1 @@
-#esto es lo que tengo de informarica
+# esto es lo que tengo de informarica
